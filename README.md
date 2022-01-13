@@ -37,7 +37,8 @@ and selected relevant features. To replicate our experiment, please use the proc
 
 ## Experiment
 
-To answer RQs presented in our paper, one can easily replicate our results:
+The file [runexp.py](runexp.py) reproduces the experiments of this paper. This file generates the graphs that let us answer the following
+research questions. 
 
 - RQ1: Can we provide interpretations on the cause of bias?
 
